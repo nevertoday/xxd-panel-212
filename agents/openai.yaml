@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 212"
+  short_description: "Near-monochrome Sculptural Form Study"
+  default_prompt: "Use $xxd-panel-212 to transform my photograph following the complete canonical source brief."
