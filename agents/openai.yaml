@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 212"
-  short_description: "Near-monochrome Sculptural Form Study"
-  default_prompt: "Use $xxd-panel-212 to transform my photograph following the complete canonical source brief."
+  short_description: "近单色概念形体模型：把照片主体收成一件悬在大片空白里的小型白色概念模型"
+  default_prompt: "Use $xxd-panel-212 to turn my photo into Near-monochrome Sculptural Form Study artwork."

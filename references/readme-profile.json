@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 212｜Near-monochrome Sculptural Form Study: condenses the most memorable subject of a photo into a small, high-key white conceptual model — a massing study built from blocks that are cut, stacked, cantilevered and recessed, with no realistic surface detail — set in vast negative space of pure black, deep charcoal or near-white, lit softly so facets and shadows read, in a near-monochrome palette of whites, cream, light grey and black with at most one tiny accent colour from the photo, plus a few small thin-weight words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-212 or asks for white massing models, conceptual form studies or near-monochrome sculptural minimalism from a photo.",
+  "short_description": "近单色概念形体模型：把照片主体收成一件悬在大片空白里的小型白色概念模型",
+  "zh-CN": {
+    "name": "近单色概念形体模型",
+    "tagline": "把照片主体收成一件悬在大片空白里的小型白色概念模型。",
+    "look": "照片里最值得记住的主体被归纳成一件小小的白色概念模型：用体块的切割、叠合、悬挑和凹凸重新拼出它的形体，不做写实表面，人和环境只留下必要的尺度线索。模型只占画面很小一块，四周是大面积纯黑、深炭灰或接近纯白的空白，柔和的光影交代切面和层次。颜色只有白、米白、浅灰和黑，最多保留一处极小的原照片颜色。空白里放几处小号细字，像作品集里的安静注记。",
+    "traits": ["白模体块", "极大负空间", "近单色", "雕塑感", "极简注记"],
+    "good": [
+      "轮廓和体量清楚的主体：一栋楼、一座桥、一把椅子、一个站着的人",
+      "结构走势明显的场景：楼梯、山脊、码头、拱廊",
+      "想做成作品集章节页、展览图版或极简海报的照片"
+    ],
+    "poor": [
+      "靠丰富色彩取胜的照片：花市、彩色涂鸦墙、晚霞，颜色几乎会全部去掉",
+      "重在表情、皮肤或衣料细节的人像，模型只保留形体",
+      "想要写实 3D 渲染、彩色塑料玩具或商品模型展示的效果"
+    ]
+  },
+  "en": {
+    "name": "Near-monochrome Sculptural Form Study",
+    "tagline": "Turns the subject of a photo into a small white conceptual model floating in a vast empty field.",
+    "look": "The subject you would remember from the photo is condensed into a small white study model: its shape is rebuilt from blocks that are cut, stacked, cantilevered and recessed, with no realistic surfaces and only the scale cues it needs. The model fills a small part of the frame, surrounded by large areas of pure black, deep charcoal or near-white, with soft light picking out its facets and shadows. Colour is limited to whites, cream, pale grey and black, with at most one tiny touch of a colour from the photo. A few small, thin words sit in the empty space like quiet notes in a portfolio.",
+    "traits": ["White massing model", "Vast negative space", "Near-monochrome", "Sculptural volume", "Minimal notes"],
+    "good": [
+      "Subjects with a clear outline and mass: a building, a bridge, a chair, a standing person",
+      "Scenes with strong structural lines: a staircase, a ridgeline, a pier, an arcade",
+      "Photos you want as a portfolio divider, an exhibition plate or a minimalist poster"
+    ],
+    "poor": [
+      "Photos that rely on rich colour, such as flower markets, graffiti walls or sunsets: almost all colour is removed",
+      "Portraits that depend on expression, skin or fabric detail, since the model keeps only form",
+      "Requests for realistic 3D renders, colourful plastic toys or product-model showcases"
+    ]
+  },
+  "ja": {
+    "name": "近単色の彫刻的形態研究",
+    "tagline": "写真の主役を、広い余白に浮かぶ小さな白い概念模型にします。",
+    "look": "写真でいちばん記憶に残る主役を、小さな白い模型にまとめます。ボリュームを切る、重ねる、張り出す、へこませることで形を組み直し、写実的な表面はつくらず、人や環境は必要なスケールの手がかりだけを残します。模型は画面のごく一部で、まわりは真っ黒、濃い炭灰、またはほぼ白の大きな余白。柔らかな光が切断面と陰影を見せます。色は白、生成り、薄い灰、黒だけで、写真の色を残すとしてもごく小さく一か所です。余白には作品集の注記のような小さく細い文字が少しだけ入ります。",
+    "traits": ["白模型のボリューム", "大きな余白", "近単色", "彫刻的な量感", "控えめな注記"],
+    "good": [
+      "輪郭と量感がはっきりした主役：建物、橋、椅子、立っている人",
+      "構造の流れが強い場面：階段、尾根、桟橋、アーケード",
+      "作品集の扉、展示パネル、ミニマルなポスターにしたい写真"
+    ],
+    "poor": [
+      "豊かな色が魅力の写真：花市場、カラフルな壁画、夕焼け（色はほぼ消えます）",
+      "表情や肌、布の質感が大事な人物写真（模型は形だけを残します）",
+      "写実的な3Dレンダリング、カラフルなプラスチック玩具、商品模型のような仕上がりを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "준단색 조각적 형태 연구",
+    "tagline": "사진의 주인공을 넓은 빈 공간에 놓인 작은 흰색 개념 모형으로 바꿉니다.",
+    "look": "사진에서 가장 기억에 남는 주인공을 작은 흰색 모형으로 압축합니다. 덩어리를 자르고, 쌓고, 내밀고, 파내어 형태를 다시 짜며, 사실적인 표면은 만들지 않고 사람과 환경은 필요한 크기 단서만 남깁니다. 모형은 화면의 작은 부분만 차지하고, 주변은 새까만 검정이나 짙은 숯회색, 혹은 거의 흰색의 넓은 여백입니다. 부드러운 빛이 절단면과 그림자를 드러냅니다. 색은 흰색, 미색, 연회색, 검정뿐이며 사진의 색은 남기더라도 아주 작게 한 곳만 씁니다. 여백에는 포트폴리오 주석 같은 작고 가는 글자가 조금 들어갑니다.",
+    "traits": ["흰색 매스 모형", "넓은 여백", "준단색", "조각적 볼륨", "절제된 주석"],
+    "good": [
+      "윤곽과 볼륨이 뚜렷한 주인공: 건물, 다리, 의자, 서 있는 사람",
+      "구조의 흐름이 강한 장면: 계단, 산등성이, 부두, 아케이드",
+      "포트폴리오 간지, 전시 패널, 미니멀 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "풍부한 색이 매력인 사진: 꽃시장, 그라피티 벽, 노을(색이 거의 사라집니다)",
+      "표정, 피부, 옷감 질감이 중요한 인물 사진(모형은 형태만 남깁니다)",
+      "사실적인 3D 렌더링, 알록달록한 플라스틱 장난감, 제품 모형 같은 결과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دراسة شكل نحتية شبه أحادية اللون",
+    "tagline": "يحوّل العنصر الرئيسي في الصورة إلى نموذج مفاهيمي أبيض صغير في مساحة فارغة واسعة.",
+    "look": "يُختزل أبرز ما في الصورة إلى نموذج دراسي أبيض صغير: يُعاد بناء شكله من كتل تُقطع وتتراكب وتبرز وتنخفض، دون أسطح واقعية، ولا يبقى من الأشخاص والمحيط إلا ما يدل على المقياس. يشغل النموذج جزءاً صغيراً من الإطار، وتحيط به مساحات واسعة من الأسود الخالص أو الفحمي الداكن أو الأبيض تقريباً، ويُظهر ضوء ناعم أوجهه وظلاله. تقتصر الألوان على درجات الأبيض والكريمي والرمادي الفاتح والأسود، مع لمسة صغيرة واحدة على الأكثر من ألوان الصورة. وتظهر في الفراغ كلمات قليلة صغيرة رفيعة كأنها ملاحظات هادئة في ملف أعمال.",
+    "traits": ["نموذج كتلي أبيض", "فراغ واسع", "شبه أحادي اللون", "حجم نحتي", "ملاحظات مقتضبة"],
+    "good": [
+      "عناصر واضحة الحدود والكتلة: مبنى، جسر، كرسي، شخص واقف",
+      "مشاهد ذات خطوط إنشائية قوية: درج، خط تلال، رصيف بحري، رواق مقوّس",
+      "صور تريدها فاصلاً في ملف أعمال أو لوحة معرض أو ملصقاً بسيطاً"
+    ],
+    "poor": [
+      "صور تعتمد على ثراء الألوان مثل سوق الزهور أو جدار الغرافيتي أو الغروب، إذ تختفي الألوان تقريباً",
+      "صور شخصية تعتمد على التعبير أو البشرة أو تفاصيل القماش، فالنموذج يحتفظ بالشكل وحده",
+      "طلب تصيير ثلاثي الأبعاد واقعي أو ألعاب بلاستيكية ملونة أو عرض مجسّم لمنتج"
+    ]
+  }
+}

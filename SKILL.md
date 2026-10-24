@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-212
-description: "Create Panel 212 raster artwork: Near-monochrome Sculptural Form Study. Use when the user invokes xxd-panel-212 or requests this specific visual language."
+description: "XXD Panel 212｜Near-monochrome Sculptural Form Study: condenses the most memorable subject of a photo into a small, high-key white conceptual model — a massing study built from blocks that are cut, stacked, cantilevered and recessed, with no realistic surface detail — set in vast negative space of pure black, deep charcoal or near-white, lit softly so facets and shadows read, in a near-monochrome palette of whites, cream, light grey and black with at most one tiny accent colour from the photo, plus a few small thin-weight words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-212 or asks for white massing models, conceptual form studies or near-monochrome sculptural minimalism from a photo."
 ---
 
 # XXD Panel 212
